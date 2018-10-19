@@ -1,0 +1,5 @@
+pizza
+milk
+pizza
+football
+--list
